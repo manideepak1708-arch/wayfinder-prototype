@@ -1,0 +1,4 @@
+﻿persona_id,name,age,companions,safety,cost,speed,entertainment,risk_tolerance,preferred_categories,avoid_categories,goal
+P001,Family of 4,,2 adults + 2 children,5,3,3,1,1,Restaurant|Service Station|Drug Store|Garage|Hotel|Lodging,Tavern|Night Club|Bar|Liquor Store,Reach the destination using practical family-oriented stops.
+P002,"Woman, 19",19,Traveling alone,5,3,3,1,1,Service Station|Drug Store|Restaurant|Hotel|Lodging|Garage,Tavern|Night Club|Bar|Liquor Store,"Use fewer practical, safety-focused stops and avoid nightlife."
+P003,"Man, 27",27,Traveling alone,3,3,3,5,4,Restaurant|Tavern|Night Club|Service Station|Hotel|Drug Store,,Travel flexibly with restaurant and nightlife options available.
